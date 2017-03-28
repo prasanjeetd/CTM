@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CTM.Conference">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgAAAAAAAAAAAEAAACAAAAEAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Conference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.ExceptionMessage" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.Event" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAEAAAAAAAAAAIEAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.EventFactory" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\EventFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.Lunch">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\Lunch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.NetworkingEvent">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\NetworkingEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.AfternoonSession">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\Sessions\AfternoonSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.MorningSession">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\Sessions\MorningSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.Session" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAAAAAAAAwAAEAAAAAgAAAoAAAAYAA=</HashCode>
+      <FileName>Events\Sessions\Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.SessionScheduler" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAQAAAAAAAEAAAAAgAAAAAAAAIAA=</HashCode>
+      <FileName>Events\Sessions\SessionScheduler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.SingleEvent">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Events\SingleEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.InputProcessor" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAgQAAACAAAAAAAAAghAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOProcessors\InputProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.ObjectCopier">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Helpers\ObjectCopier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.OutputProcessor">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>IOProcessors\OutputProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.Talk" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAACAEAAIAAAAAAAIAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Talk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.TimeHelper">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\TimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTM.Track">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CTM.TimeUnit">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

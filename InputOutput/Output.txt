@@ -1,0 +1,27 @@
+Track 1
+09:00 AM Writing Fast Tests Against Enterprise Rails 60Min
+10:00 AM Communicating Over Distance 60Min
+11:00 AM Rails Magic 60Min
+12:00 PM Lunch
+01:00 PM Ruby on Rails: Why We Should Move On 60Min
+02:00 PM Ruby on Rails Legacy App Maintenance 60Min
+03:00 PM Overdoing it in Python 45Min
+03:45 PM Ruby Errors from Mismatched Gem Versions 45Min
+04:30 PM Lua for the Masses 30Min
+05:00 PM Networking Event
+
+Track 2
+09:00 AM Common Ruby Errors 45Min
+09:45 AM Accounting-Driven Development 45Min
+10:30 AM Pair Programming vs Noise 45Min
+11:15 AM Clojure Ate Scala (on my project) 45Min
+12:00 PM Lunch
+01:00 PM Woah 30Min
+01:30 PM Sit Down and Write 30Min
+02:00 PM Programming in the Boondocks of Seattle 30Min
+02:30 PM Ruby vs. Clojure for Back-End Development 30Min
+03:00 PM A World Without HackerNews 30Min
+03:30 PM User Interface CSS in Rails Apps 30Min
+04:00 PM Rails for Python Developers Lightning
+05:00 PM Networking Event
+

@@ -1,0 +1,14 @@
+Track 1
+09:00 AM Writing Fast Tests Against Enterprise Rails 150Min
+11:30 AM Rails for Python Developers Lightning
+12:00 PM Lunch
+01:00 PM Overdoing it in Python 140Min
+03:20 PM Ruby Errors from Mismatched Gem Versions 100Min
+05:00 PM Networking Event
+
+Track 2
+09:00 AM Common Ruby Errors 150Min
+12:00 PM Lunch
+01:00 PM Lua for the Masses 130Min
+05:00 PM Networking Event
+

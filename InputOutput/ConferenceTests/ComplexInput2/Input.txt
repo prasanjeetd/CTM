@@ -1,0 +1,6 @@
+Writing Fast Tests Against Enterprise Rails 150min
+Overdoing it in Python 140min
+Lua for the Masses 130min
+Ruby Errors from Mismatched Gem Versions 100min
+Common Ruby Errors 150min
+Rails for Python Developers lightning
